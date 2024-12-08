@@ -99,10 +99,6 @@ header {
   color: #ffffff;
 }
 button {
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
   background-color: #4d5ae5;
 }
 button:hover,
@@ -142,7 +138,7 @@ footer {
 .icon-item {
   background-color: #ffffff;
 }
-.footer.span {
+.footer-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
