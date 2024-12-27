@@ -112,9 +112,10 @@ button:hover,
 button:focus {
   background-color: #404bbf;
 }
-.section-item-list {
+.section-list {
   background-color: #ffffff;
 }
+
 .section-subtitel {
   font-weight: 500;
   font-size: 20px;
