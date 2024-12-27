@@ -73,7 +73,9 @@ header {
   color: #2e2f42;
 }
 .page-nav .nav-link:hover,
-.page-nav .nav-link:active,
+.page-nav .nav-link:active {
+  color: #404bbf;
+}
 .page-nav .nav-link:focus {
   color: #404bbf;
 }
